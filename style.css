@@ -1,0 +1,19 @@
+
+    body{
+        background-color:#D4F6FF;
+    }
+
+    hr{
+        
+        border-style: dotted none none;
+        border-color: grey;
+        border-width: 10px;
+        size: 20px;
+        width: 1%;
+        padding: 20px;
+    }
+
+   h1,h2{
+    color: #00CCDD;
+
+   }
